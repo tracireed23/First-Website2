@@ -1,0 +1,54 @@
+html {
+    background-color: #AD5959;
+
+    text-align: center;
+
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+img {
+  border-style: solid;
+}
+h1 {
+  background-color: #3D1313;
+
+    font-family: "Comic Sans MS";
+
+    font-size: 400%;
+
+    text-decoration: underline;
+    border-style: solid;
+
+  color: white;
+}
+h2 {
+  color: white;
+
+  font-family: "Comic Sans MS";
+
+  font-size: 300%;
+
+  margin-bottom: 1%;
+}
+h3 {
+  color: white;
+
+  font-family: "Comic Sans MS";
+
+  font-size: 300%;
+
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+p {
+  font-family: "Comic Sans MS";
+
+  font-size: 125%;
+
+}
+h4 {
+  color: white;
+
+  font-family: "Comic Sans MS";
+}
